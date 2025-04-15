@@ -1,0 +1,5 @@
+sources:
+  - name: s1
+    tables:
+      - name: orders
+      - name: TBL_VIN

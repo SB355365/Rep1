@@ -1,0 +1,1 @@
+SELECT * FROM {{source('s1','TBL_VIN')}}

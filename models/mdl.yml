@@ -1,0 +1,7 @@
+models:
+  - name: stg_vin
+    columns:
+          - name: id
+          - name: VIN
+            tests:
+              - is_valid_vin
